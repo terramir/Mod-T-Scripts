@@ -1,3 +1,10 @@
+This is  fork xaero252 so I can try to build a simple 
+GUI and webclient for a mod-t maybe even a touchscreen gui
+Or 
+
+Write a plug-in for octoprint no clue yet.
+
+terramir
 ##First and foremost:
 **USE THESE SCRIPTS AT YOUR OWN RISK!**
 These scripts aren't very well tested and almost none of them are completely finished. They work to interface with the printer but it's all very manual.
